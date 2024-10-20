@@ -1,4 +1,4 @@
-## Social Media Applicatione Social Using MERN stack
+## Social Media App using MERN stack
 This is a social media application that allows users to sign up, create a profile, post text and images, view other users' posts, like and comment on posts, search for other users and posts, and follow and unfollow other users.
 
 ## Features
